@@ -34,8 +34,7 @@ I'm **Saksham Talwar**, a **Front-End Developer & IoT Enthusiast** currently pur
 </p>
 
 ---
-### Watch my GitHub contribution snake 🐍
-![GitHub Snake animation](https://raw.githubusercontent.com/sakshamtalwarr/output/snake.svg)
+
 
 ## 📈 GitHub Stats  
 <p align="center">
