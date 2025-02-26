@@ -1,38 +1,50 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Saksham's%20-nl-%20Github%20Page&descAlign=14&descAlignY=28&textBg=false&stroke=1" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20Saksham's%20GitHub%20Page!&fontAlign=50&fontSize=40&desc=Innovating%20One%20Project%20at%20a%20Time&descAlign=50&descAlignY=70" width="100%"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
-<p>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+## 👋 About Me
+I'm **Saksham Talwar**, a **Front-End Developer & IoT Enthusiast** currently pursuing **BCA**. Passionate about **Web Development, IoT, and Blockchain**, I love building projects that integrate technology in creative ways.  
+
+💡 **I enjoy participating in hackathons**, collaborating on innovative ideas, and working with **AI & IoT solutions**.  
+🔧 Currently **learning:** Visual Basic & Advanced Web Development.  
+⚡ **Interests:** Tech, EVs, Fitness, Pets, and Problem-Solving.  
+
+---
+
+## 🚀 Tools & Technologies  
+
+### 🔧 **Tools I Use**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  height="50px" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="50px" width="50px" />
 </p>
-I'm Saksham Talwar, a **Front-End Developer & IoT Enthusiast** currently pursuing **BCA**. I love working on **web development, IoT, and blockchain projects**.  
 
-🚀 **Skills:**:
-<p>
- <img src= "https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA1NjQ4NzMsIm5iZiI6MTc0MDU2NDU3MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI2VDEwMDkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwNjBhMzJhOThjOWQ1YTA4YTE0ZmNjNWFmMmFmZjYxNmU5YzNkYzdiOGJiMmYzOWRiN2IyNDI3YWYxYTBjZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gjwiH1cM0CqKBhU32WHXNQuejuU7zctC2HtPi31cMY8"><p/>
-   <p>
- <img src= "https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA1NjQ4NzMsIm5iZiI6MTc0MDU2NDU3MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI2VDEwMDkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiZjM1OWM0YjFiNzBkMzgyOTAwZDY5YWFlZTM4YjI2YmYyZGMwMTZhNTI4MjQ5MDc1ODBlYWM5ODc0YTljMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wdbCAuybm_a7gfPnEFjFKCF9jREAgOQcn9yo7joWEfQ"><p/>
- <p>  <img src ="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"> </p>
- <p><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"></p>
-  <p><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"></p>
-   <p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF2dGllZ2NtaXh1cGd5N285Ymw5d213NWE4cTBlbzlta2c3ZHNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif"></p>
-    <p><img src=""></p>
-🎯 **Learning:** Visual Basic, Advanced Web Development  
-   
-⚡ **Interests:** Tech, EVs, Fitness, Pets  
+### 🖥️ **Languages & Skills**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="50px" width="50px"/>
+</p>
 
-📬 **Let's Connect:** [LinkedIn] https://www.linkedin.com/in/saksham-talwar/  
+---
+![Snake animation](https://github.com/sakshamtalwarr/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamtalwarr&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamtalwarr&layout=compact&theme=radical" height="150px"/>
+</p>
 
-<!--
-**sakshamtalwarr/sakshamtalwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Connect With Me  
+💼 **LinkedIn:** [Saksham Talwar](https://www.linkedin.com/in/saksham-talwar/)  
+📧 **Email:** Work.SakshamTalwar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 *Always open to collaborations, hackathons, and exciting tech discussions!*  
