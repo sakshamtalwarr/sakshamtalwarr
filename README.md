@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there! 👋  
+I'm Saksham Talwar, a **Full Stack Developer & IoT Enthusiast** currently pursuing **BCA**. I love working on **web development, IoT, and blockchain projects**.  
+
+🚀 **Skills:** Python, JavaScript, HTML, CSS, Arduino, ESP8266  
+🎯 **Learning:** Visual Basic, Advanced Web Development  
+⚡ **Interests:** Tech, EVs, Fitness, Pets  
+
+📬 **Let's Connect:** [LinkedIn] https://www.linkedin.com/in/saksham-talwar/  
 
 <!--
 **sakshamtalwarr/sakshamtalwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
