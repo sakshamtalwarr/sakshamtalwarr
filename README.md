@@ -34,7 +34,7 @@ I'm **Saksham Talwar**, a **Front-End Developer & IoT Enthusiast** currently pur
 </p>
 
 ---
-![Snake animation](https://github.com/sakshamtalwarr/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sakshamtalwarr/sakshamtalwarr/blob/output/github-contribution-grid-snake.svg)
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshamtalwarr&show_icons=true&theme=radical" height="150px"/>
